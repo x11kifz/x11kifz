@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+x11kifz+%F0%9F%91%8B;Information+Technology+Student;Apps,+Websites+%26+SaaS+Developer;Currently+Exploring+DevOps;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+x11kifz+%F0%9F%91%8B;Information+Technology+Student;Currently+Exploring+DevOps;Always+Learning+New+Technologies" alt="Typing SVG" />
 </a>
 </p>
 
@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I'm currently studying **Information Technology**.
+- 🎓 I'm **IT** Student.
 - 🔭 I focus on building awesome **Applications, Websites, and SaaS** platforms.
 - 🌱 I’m currently diving deep into **DevOps** to improve my deployment workflows.
 - 📚 I'm a lifelong learner, always eager to expand my skills in the tech industry.
