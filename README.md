@@ -6,9 +6,7 @@
 </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=x11kifz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 ---
 
@@ -42,7 +40,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=x11kifz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
@@ -56,6 +56,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x11kifz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
+
 
 ---
 
