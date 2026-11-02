@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+x11kifz+%F0%9F%91%8B;Information+Technology+Student;Currently+Exploring+DevOps;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+x11kifz+%F0%9F%91%8B;IT+Student;Currently+Exploring+More+Skills;Always+Learning+New+Technologies" alt="Typing SVG" />
 </a>
 </p>
 
@@ -45,6 +45,7 @@
 ![node JS](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=x11kifz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
